@@ -65,6 +65,9 @@ const NavbarComponent = () => {
               <MDBNavbarItem>
                 <MDBNavbarLink href="#">BRANDS</MDBNavbarLink>
               </MDBNavbarItem>
+              <MDBNavbarItem>
+                <MDBNavbarLink href="#">HELP CENTER</MDBNavbarLink>
+              </MDBNavbarItem>
             </MDBNavbarNav>
             <form className="d-flex input-group w-100">
               <input
